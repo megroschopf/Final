@@ -1,0 +1,14 @@
+C:\Users\Joker\source\repos\Final\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\Joker\source\repos\Final\EntidadesTest\bin\Debug\EntidadesTest.exe
+C:\Users\Joker\source\repos\Final\EntidadesTest\bin\Debug\EntidadesTest.pdb
+C:\Users\Joker\source\repos\Final\EntidadesTest\bin\Debug\EntidadesTest.xml
+C:\Users\Joker\source\repos\Final\EntidadesTest\bin\Debug\Entidades.dll
+C:\Users\Joker\source\repos\Final\EntidadesTest\bin\Debug\Entidades.pdb
+C:\Users\Joker\source\repos\Final\EntidadesTest\bin\Debug\Entidades.xml
+C:\Users\Joker\source\repos\Final\EntidadesTest\obj\Debug\EntidadesTest.vbprojResolveAssemblyReference.cache
+C:\Users\Joker\source\repos\Final\EntidadesTest\obj\Debug\EntidadesTest.Resources.resources
+C:\Users\Joker\source\repos\Final\EntidadesTest\obj\Debug\EntidadesTest.vbproj.GenerateResource.Cache
+C:\Users\Joker\source\repos\Final\EntidadesTest\obj\Debug\EntidadesTest.vbproj.CoreCompileInputs.cache
+C:\Users\Joker\source\repos\Final\EntidadesTest\obj\Debug\EntidadesTest.exe
+C:\Users\Joker\source\repos\Final\EntidadesTest\obj\Debug\EntidadesTest.xml
+C:\Users\Joker\source\repos\Final\EntidadesTest\obj\Debug\EntidadesTest.pdb
